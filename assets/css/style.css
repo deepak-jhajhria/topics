@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+    list-style-type: none !important;
+    text-decoration: none !important;
+    font-family: "Poppins", sans-serif !important;
+}
+
+a {
+    text-decoration: none !important;
+    color: black !important;
+
+    &:hover {
+        text-decoration: underline !important;
+    }
+}
